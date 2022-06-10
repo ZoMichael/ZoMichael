@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ZoMichael
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ RATOVONARIVO Zo Michael
+- 👀 I’m interested in PROGRAMING 
+- 👨🏻‍🎓 I study at ISPM (ESIIA 3)2022
+- 🌚 fb: Zo Michaël RATOVONARIVO 
+- 💌 Mail: zomich.rtv@gmail.com
 
-<!---
-ZoMichael/ZoMichael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
