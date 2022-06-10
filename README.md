@@ -4,3 +4,12 @@
 - 🌚 fb: Zo Michaël RATOVONARIVO 
 - 💌 Mail: zomich.rtv@gmail.com
 
+# Members team
+| Name | Class |
+|------|-------|
+| FARARANOHARISON Nomenatsilavina Kevin | ESIIA_3 |
+| RATOVONARIVO Zo Michaël| ESIIA_3 |
+| RAZAFITSALAMA Fanilo Herivonjy | ESIIA_3 |
+| ANDRIANOTAHIANA Finaritra | ESIIA_3 |
+| HONI RIKA Tahina | ESIIA_3 |
+| ANDRIAFITAHIANA RATIA Joseph Tellia | ESIIA_3 |
